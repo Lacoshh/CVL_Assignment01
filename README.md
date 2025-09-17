@@ -16,6 +16,6 @@ Pillow (PIL): Untuk membuka dan menyimpan berbagai format gambar.
 # Sumber Asli
 Proyek ini didasarkan pada implementasi dan model dari repository asli Zero-DCE.
 
-Repository GitHub: Li-Chongyi/Zero-DCE
+Repository GitHub: https://github.com/Li-Chongyi/Zero-DCE
 
 Paper Referensi: Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation
