@@ -26,6 +26,10 @@ input: Zero-DCE_code/data/test_data/DICM
 
 result: Zero-CDE/Zero-DCE_code/data/result/DICM
 
+# notebook
+
+https://colab.research.google.com/drive/1LZbVHzMBO5w8-MEkgg3XBNVHXay8OjKi?usp=sharing
+
 # Sumber Asli
 Proyek ini didasarkan pada implementasi dan model dari repository asli Zero-DCE.
 
