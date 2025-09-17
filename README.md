@@ -13,6 +13,14 @@ NumPy: Untuk manipulasi data numerik dan array.
 
 Pillow (PIL): Untuk membuka dan menyimpan berbagai format gambar.
 
+# Requirement
+
+1. Python 3.7
+2. Pytorch 1.0.0
+3. opencv
+4. torchvision 0.2.1
+5. cuda 10.0
+
 # Dataset
 input: Zero-DCE_code/data/test_data/DICM
 
