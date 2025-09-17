@@ -1,0 +1,4 @@
+Zero-CDE/Zero-DCE_code/data/test_data/DICM/** filter=lfs diff=lfs merge=lfs -text
+Zero-CDE/Zero-DCE_code/data/test_data/LIME/** filter=lfs diff=lfs merge=lfs -text
+Zero-CDE/Zero-DCE_code/data/result/LIME/** filter=lfs diff=lfs merge=lfs -text
+Zero-CDE/Zero-DCE_code/data/result/DICM/** filter=lfs diff=lfs merge=lfs -text
