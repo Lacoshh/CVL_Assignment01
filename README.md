@@ -15,6 +15,7 @@ Pillow (PIL): Untuk membuka dan menyimpan berbagai format gambar.
 
 # Dataset
 input: Zero-DCE_code/data/test_data/DICM
+
 result: Zero-CDE/Zero-DCE_code/data/result/DICM
 
 # Sumber Asli
